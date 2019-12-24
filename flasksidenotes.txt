@@ -1,0 +1,4 @@
+What is a route?
+routes are what we type into browerser
+to go to different pages
+We use decorator for that.
